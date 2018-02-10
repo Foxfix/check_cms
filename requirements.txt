@@ -1,0 +1,10 @@
+flask
+requests
+flask-restful
+langdetect
+tld
+wad
+bs4
+lxml
+uwsgi
+
